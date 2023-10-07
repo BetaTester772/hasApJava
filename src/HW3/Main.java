@@ -1,7 +1,7 @@
 package HW3;
 
 
-public class HW1_22121 {
+public class Main {
     public static void main(String[] args) {
         int[] years = {2022, 2023, 2024};
         int[] month = {9, 10, 11};
